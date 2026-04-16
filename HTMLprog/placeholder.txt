@@ -1,0 +1,2 @@
+# Placeholder for HTMLprog directory
+This is a placeholder file for the HTMLprog directory.
